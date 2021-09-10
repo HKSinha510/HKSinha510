@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HKSinha510
 - 👀 I’m interested in Python & Web development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Discord Bot Project
 - 📫 You can mail me at `hardikkumarsinha@gmail.com`
 
